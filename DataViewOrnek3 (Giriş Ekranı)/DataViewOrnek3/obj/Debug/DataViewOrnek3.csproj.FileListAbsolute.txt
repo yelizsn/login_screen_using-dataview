@@ -1,0 +1,29 @@
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\bin\Debug\DataViewOrnek3.exe.config
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\bin\Debug\DataViewOrnek3.exe
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\bin\Debug\DataViewOrnek3.pdb
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\obj\Debug\DataViewOrnek3.Form1.resources
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\obj\Debug\DataViewOrnek3.Properties.Resources.resources
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.GenerateResource.cache
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\obj\Debug\DataViewOrnek3.exe
+C:\Users\FreeBSD\source\repos\DataViewOrnek3\DataViewOrnek3\obj\Debug\DataViewOrnek3.pdb
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\bin\Debug\DataViewOrnek3.exe.config
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\bin\Debug\DataViewOrnek3.exe
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\bin\Debug\DataViewOrnek3.pdb
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.csprojAssemblyReference.cache
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.Form1.resources
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.Properties.Resources.resources
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.GenerateResource.cache
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.exe
+C:\Users\FreeBSD\Desktop\FİNAL ÖDEVİ\DATABASELİ\DataView Sunum ve Örnekleri Yeliz Güllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.pdb
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\bin\Debug\DataViewOrnek3.exe.config
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\bin\Debug\DataViewOrnek3.exe
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\bin\Debug\DataViewOrnek3.pdb
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.AssemblyReference.cache
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.Form1.resources
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.Properties.Resources.resources
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.GenerateResource.cache
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.csproj.CoreCompileInputs.cache
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.exe
+C:\Users\Yeliz\Desktop\21010501049_DataViewKayıtEklemek_YelizGüllüsünbül\DataViewOrnek3 (Giriş Ekranı)\DataViewOrnek3\obj\Debug\DataViewOrnek3.pdb
